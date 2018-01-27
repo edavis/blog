@@ -22,9 +22,3 @@ publishDir = "../pub/"
   identifier = "blog"
   weight = 0
   url = "/blog/"
-
-[[Menu.main]]
-  name = "projects"
-  identifier = "projects"
-  weight = 0
-  url = "/projects/"
