@@ -1,0 +1,30 @@
+baseURL = "https://edavis.github.io/"
+languageCode = "en-us"
+title = "Eric Davis"
+theme = "sustain"
+publishDir = "../pub/"
+
+[permalinks]
+  blog = "/:year/:month/:day/:slug"
+
+[params]
+  author = "Eric Davis"
+  description = "Personal homepage for Eric Davis"
+  custom_css = ["css/overrides.css"]
+
+[params.social]
+  Github = "edavis"
+  Email = "circa1979@gmail.com"
+  Twitter = "ejd215"
+
+[[Menu.main]]
+  name = "blog"
+  identifier = "blog"
+  weight = 0
+  url = "/blog/"
+
+[[Menu.main]]
+  name = "projects"
+  identifier = "projects"
+  weight = 0
+  url = "/projects/"
