@@ -1,6 +1,6 @@
 +++
 date = "2016-02-26 17:00:41"
-title = "Howto enable WordPress maintenance mode"
+title = "Enable WordPress maintenance mode"
 draft = "false"
 categories = ["Technology"]
 author = "edavis215"
