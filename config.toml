@@ -3,6 +3,7 @@ languageCode = "en-us"
 title = "Eric Davis"
 theme = "sustain"
 publishDir = "../pub/"
+rssLimit = 25
 
 [permalinks]
   blog = "/:year/:month/:day/:slug"
@@ -12,10 +13,13 @@ publishDir = "../pub/"
   description = "Personal homepage for Eric Davis"
   custom_css = ["css/overrides.css"]
 
-[params.social]
+[params.Social]
   Github = "edavis"
   Email = "circa1979@gmail.com"
   Twitter = "ejd215"
+  Facebook = "ericdavis215"
+  LinkedIn = "ericdavis215"
+  StackOverflow = "users/3416550/edavis"
 
 [[Menu.main]]
   name = "blog"
