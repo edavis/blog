@@ -1,7 +1,6 @@
 ---
 title: "Create an angled background in CSS"
 date: 2018-02-04T10:19:00-08:00
-draft: true
 ---
 
 The design specs for a new WordPress theme I'm building call for an
