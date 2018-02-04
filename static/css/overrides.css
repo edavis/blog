@@ -1,7 +1,11 @@
 .panel-default__homepage {
-  margin-top: -20px;
+	margin-top: -20px;
 }
 
 .social-links {
 	padding-left: 0;
+}
+
+img {
+	max-width: 100%;
 }
