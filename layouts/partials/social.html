@@ -4,24 +4,28 @@
       <li><a href="mailto:{{ .Site.Params.Social.Email }}"><i class="fa fa-envelope"></i></a></li>
     {{ end }}
 
-    {{ if .Site.Params.Social.Github }}
-      <li><a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></li>
+    {{ if .Site.Params.Social.Facebook }}
+      <li><a href="https://facebook.com/{{ .Site.Params.Social.Facebook }}"><i class="fa fa-facebook"></i></a></li>
     {{ end }}
 
     {{ if .Site.Params.Social.Twitter }}
       <li><a href="https://twitter.com/{{ .Site.Params.Social.Twitter }}"><i class="fa fa-twitter"></i></a></li>
     {{ end }}
 
-    {{ if .Site.Params.Social.Facebook }}
-      <li><a href="https://facebook.com/{{ .Site.Params.Social.Facebook }}"><i class="fa fa-facebook"></i></a></li>
-    {{ end }}
-
     {{ if .Site.Params.Social.LinkedIn }}
       <li><a href="https://linkedin.com/in/{{ .Site.Params.Social.LinkedIn }}"><i class="fa fa-linkedin"></i></a></li>
     {{ end }}
 
+    {{ if .Site.Params.Social.Github }}
+      <li><a href="https://github.com/{{ .Site.Params.Social.Github }}"><i class="fa fa-github"></i></a></li>
+    {{ end }}
+
     {{ if .Site.Params.Social.StackOverflow }}
       <li><a href="https://stackoverflow.com/{{ .Site.Params.Social.StackOverflow }}"><i class="fa fa-stack-overflow"></i></a></li>
+    {{ end }}
+
+    {{ if .Site.Params.Social.WordPress }}
+      <li><a href="https://profiles.wordpress.org/{{ .Site.Params.Social.WordPress }}"><i class="fa fa-wordpress"></i></a></li>
     {{ end }}
 
     <li><a href="/index.xml"><i class="fa fa-feed"></i></a></li>

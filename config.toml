@@ -20,6 +20,7 @@ rssLimit = 25
   Facebook = "ericdavis215"
   LinkedIn = "ericdavis215"
   StackOverflow = "users/3416550/edavis"
+  WordPress = "ejd215"
 
 [[Menu.main]]
   name = "blog"
