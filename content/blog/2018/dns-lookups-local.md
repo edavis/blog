@@ -6,4 +6,6 @@ date: 2018-07-21T14:33:54-07:00
 
 <meta http-equiv="refresh" content="1;url=https://github.com/edavis/fieldnotes/issues/27" />
 
-Please wait while you're redirected&hellip;
+Click [here][] if you're not redirected&hellip;
+
+[here]: https://github.com/edavis/fieldnotes/issues/27
